@@ -1,0 +1,25 @@
+{
+  "vsp": "всп какое-то",
+  "tableWithMainInformation": [
+    {
+      "caseIndex": "356-11",
+      "caseTitel": "Приказ об отмене приказа",
+      "begin": "12.02.2021",
+	  "end":"21.02.2021",
+	  "amountOfSheets":"10",
+	  "shelfLife":"50 лет ЭПК"
+    },
+	{
+      "caseIndex": "356-22",
+      "caseTitel": "Премии(приказ опремии, пишу, чтобы посмотреть,как текст вылезет",
+      "begin": "22.02.2021",
+	  "end":"12.04.2021",
+	  "amountOfSheets":"56",
+	  "shelfLife":"1 год!"
+      
+    }
+  ],
+  "numberOfFile":"3",
+  "fromNumber":"123-122",
+  "toNumber":"147483-123"
+}
